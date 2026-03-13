@@ -1,6 +1,6 @@
 ---
 name: compound-component
-description: Convert a monolithic component into a compound component pattern with a clean consumer API (e.g. <Tabs><Tab label="A">...</Tab></Tabs>) using React context internally to share state between sub-components. Trigger this skill whenever the user mentions "compound component", "compound pattern", wants to refactor a component so children can communicate without props, asks for a cleaner API for a complex UI widget, says things like "make it work like Radix" or "headless component", wants to convert a prop-heavy component into composable pieces, or pastes a component like Tabs, Accordion, Dropdown, Modal, Select, Stepper, Menu, Card, Form, or any widget where sub-parts need to share implicit state. Also trigger when the user wants to build a new reusable UI primitive from scratch with a compound API. Works with React (JS and TS). See references/ for Vue and framework-agnostic patterns.
+description: Refactor a monolithic UI component into a compound component pattern with a clean consumer API (e.g., `<Tabs><Tab /></Tabs>`), using React context to share state between subcomponents. Use when users want a composable, prop-light API for complex widgets or mention compound components, headless patterns, or components like Tabs, Accordion, Dropdown, Modal, or similar UI primitives.
 category: "Frontend"
 ---
 
