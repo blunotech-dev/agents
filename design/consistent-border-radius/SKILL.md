@@ -1,6 +1,6 @@
 ---
 name: consistent-border-radius
-description: Normalizes rounded corners across a file so buttons, inputs, cards, modals, badges, and all UI elements share the exact same curvature. Use this skill whenever the user mentions inconsistent border radii, wants to unify rounded corners, asks to make UI elements look more cohesive, or says things like "make the corners match", "fix the rounding", "unify border radius", "standardize my rounded corners", or "buttons and cards don't match". Also trigger when the user pastes a CSS/HTML/JSX/TSX file and asks for a design consistency pass, border radius is one of the first things to normalize.
+description: Standardize border radius across all UI elements to ensure consistent curvature. Use when the user asks to fix or unify rounded corners, improve UI consistency, or when a design consistency pass is needed.
 category: "Design"
 ---
 
